@@ -16,9 +16,12 @@ public class OperacionesAritmeticas {
     }
 
     public static double Restar(double a, double b) {
-        return a - b;
+        return a * b;
     }
     
     
+    public static double Multiplicar(double a, double b) {
+        return a * b;
     
+}
 }
